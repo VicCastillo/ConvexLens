@@ -1,4 +1,6 @@
-ConvexLens
-==========
+##ConvexLens Model Repository
 
-NetLogo model of light refracted by a Convex lens
+The model page (with download links) is here: 
+! [http://STEM-Dev.github.io/ConvexLens/](http://STEM-Dev.github.io/ConvexLens/)
+
+
